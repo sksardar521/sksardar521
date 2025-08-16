@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-<img width="90" height="67" alt="image" src="https://github.com/user-attachments/assets/0f09e6a1-81a4-41e9-86a2-57dee9a58a49" />  <img width="90" height="67" alt="image" src="https://github.com/user-attachments/assets/295da5b2-88ec-437b-ba37-faf54550b509" /> <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d265e74a-6e86-4323-8748-1abcb2276c0f" />
+<img width="90" height="67" alt="image" src="https://github.com/user-attachments/assets/0f09e6a1-81a4-41e9-86a2-57dee9a58a49" /> <img width="5" height="158" alt="image" src="https://github.com/user-attachments/assets/268d3ce0-6925-48c0-95c5-61edf655d5db" /> <img width="90" height="67" alt="image" src="https://github.com/user-attachments/assets/295da5b2-88ec-437b-ba37-faf54550b509" /> <img width="5" height="158" alt="image" src="https://github.com/user-attachments/assets/268d3ce0-6925-48c0-95c5-61edf655d5db" /> <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d265e74a-6e86-4323-8748-1abcb2276c0f" />
 
 
   
@@ -38,7 +38,8 @@
 <tr>
 <td>
 
-![ModelSim](https://img.shields.io/badge/ModelSim-008B8B?style=for-the-badge)  ![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-FF5722?style=for-the-badge)  ![GTKWave](https://img.shields.io/badge/GTKWave-FFD700?style=for-the-badge)  ![Vivado](https://img.shields.io/badge/Vivado-FF9800?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![ModelSim](https://img.shields.io/badge/ModelSim-008B8B?style=for-the-badge) <img width="5" height="158" alt="image" src="https://github.com/user-attachments/assets/268d3ce0-6925-48c0-95c5-61edf655d5db" />
+ ![GTKWave](https://img.shields.io/badge/GTKWave-FFD700?style=for-the-badge)  ![Vivado](https://img.shields.io/badge/Vivado-FF9800?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 </td>
 </tr>
