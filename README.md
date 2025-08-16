@@ -22,7 +22,10 @@
 <tr>
 <td>
 
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-0175C2?style=for-the-badge)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)    
+<img width="90" height="67" alt="image" src="https://github.com/user-attachments/assets/0f09e6a1-81a4-41e9-86a2-57dee9a58a49" />  <img width="90" height="67" alt="image" src="https://github.com/user-attachments/assets/295da5b2-88ec-437b-ba37-faf54550b509" /> <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d265e74a-6e86-4323-8748-1abcb2276c0f" />
+
+
+  
 
 </td>
 </tr>
