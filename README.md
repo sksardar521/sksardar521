@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shaik Sardar Basha</h1>
+<h3 align="center">Turning Ideas into Silicon: Passionate About VLSI Design & Innovation 💡➡️⚡🖥️</h3>
+<align="centre">I am M.Tech (2025–2027) student in VLSI & Embedded Systems at NIT Jamshedpur. Passionate about VLSI design, embedded systems, and chip development. Focused on RTL Design, FPGA Development, and ASIC Flow. Always eager to learn, explore, and contribute to innovative hardware solutions.Turning Logic into reality, Learning, Debugging, and Crafting Chips that matter.
 
-<!--
-**sksardar521/sksardar521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksardar521&label=Profile%20views&color=0e75b6&style=flat" alt="sksardar521" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Verilog HDL, VLSI Design, Digital IC Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **sksardarbasha521@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+ 
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sardar-basha-shaik-13057623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sardar-basha-shaik-13057623b" height="30" width="40" /></a>
+</p>
+<h3 align="left">🛠️ Tech Stack </h3>
+
+<table>
+<tr>
+<td><b>Programming Languages</b></td>
+</tr>
+<tr>
+<td>
+
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-0175C2?style=for-the-badge)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)    
+
+</td>
+</tr>
+</table>  
+
+<table>
+<tr>
+<td><b>Software & Tools</b></td>
+</tr>
+<tr>
+<td>
+
+![ModelSim](https://img.shields.io/badge/ModelSim-008B8B?style=for-the-badge)  ![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-FF5722?style=for-the-badge)  ![GTKWave](https://img.shields.io/badge/GTKWave-FFD700?style=for-the-badge)  ![Vivado](https://img.shields.io/badge/Vivado-FF9800?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+</td>
+</tr>
+</table>  
+
+<table>
+<tr>
+<td><b>Special Interests</b></td>
+</tr>
+<tr>
+<td>
+
+![ASIC Design](https://img.shields.io/badge/ASIC%20Design-000000?style=for-the-badge)  ![FPGA](https://img.shields.io/badge/FPGA-2E8B57?style=for-the-badge)  ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-FF6347?style=for-the-badge)  
+
+</td>
+</tr>
+</table>  
+
+---
+
+<h3 align="left">Projects </h3>
+
+
+
+
+
+
+------------
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksardar521&show_icons=true&locale=en&layout=compact" alt="sksardar521" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksardar521&show_icons=true&locale=en" alt="sksardar521" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksardar521&" alt="sksardar521" /></p>
