@@ -38,7 +38,11 @@
 <tr>
 <td>
 
-![ModelSim](https://img.shields.io/badge/ModelSim-008B8B?style=for-the-badge) <img width="5" height="158" alt="image" src="https://github.com/user-attachments/assets/268d3ce0-6925-48c0-95c5-61edf655d5db" />
+<img width="121" height="28" alt="image" src="https://github.com/user-attachments/assets/46844568-adfe-4189-9e62-13e5e8ac6e07" />     <img width="121" height="28" alt="image" src="https://github.com/user-attachments/assets/effe5918-f463-42e5-87f9-48db2064b87c" />
+
+
+
+
  ![GTKWave](https://img.shields.io/badge/GTKWave-FFD700?style=for-the-badge)  ![Vivado](https://img.shields.io/badge/Vivado-FF9800?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 </td>
