@@ -77,7 +77,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksardar521&show_icons=true&locale=en&theme=tokyonight" alt="sksardar521" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180px"/></p>  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sksardar521&theme=tokyonight" height="180px"/></p>  
 
 
 
